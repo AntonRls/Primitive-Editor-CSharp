@@ -1,0 +1,11 @@
+C:\Users\Антон\source\repos\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+C:\Users\Антон\source\repos\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+C:\Users\Антон\source\repos\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+C:\Users\Антон\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.AssemblyReference.cache
+C:\Users\Антон\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Антон\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Form1.resources
+C:\Users\Антон\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+C:\Users\Антон\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.cache
+C:\Users\Антон\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+C:\Users\Антон\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
